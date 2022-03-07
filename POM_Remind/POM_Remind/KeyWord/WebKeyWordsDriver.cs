@@ -283,7 +283,7 @@ namespace POM_Remind.KeyWord
         public IWebElement FindElement(string locatorType, string locatorValue)
         {
             IWebElement element = null;
-            switch (locatorType.ToUpper())
+            switch (locatorType.ToLower())
             {
                 case "id":
                     element = driver.FindElement(By.Id(locatorValue));

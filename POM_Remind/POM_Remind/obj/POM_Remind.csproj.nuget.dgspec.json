@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trungtruc\\Downloads\\POM_Remind\\POM_Remind\\POM_Remind.csproj": {}
+    "C:\\Users\\trungtruc\\Downloads\\Git_POM_Remind\\Auto\\POM_Remind\\POM_Remind\\POM_Remind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trungtruc\\Downloads\\POM_Remind\\POM_Remind\\POM_Remind.csproj": {
+    "C:\\Users\\trungtruc\\Downloads\\Git_POM_Remind\\Auto\\POM_Remind\\POM_Remind\\POM_Remind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trungtruc\\Downloads\\POM_Remind\\POM_Remind\\POM_Remind.csproj",
+        "projectUniqueName": "C:\\Users\\trungtruc\\Downloads\\Git_POM_Remind\\Auto\\POM_Remind\\POM_Remind\\POM_Remind.csproj",
         "projectName": "POM_Remind",
-        "projectPath": "C:\\Users\\trungtruc\\Downloads\\POM_Remind\\POM_Remind\\POM_Remind.csproj",
+        "projectPath": "C:\\Users\\trungtruc\\Downloads\\Git_POM_Remind\\Auto\\POM_Remind\\POM_Remind\\POM_Remind.csproj",
         "packagesPath": "C:\\Users\\trungtruc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trungtruc\\Downloads\\POM_Remind\\POM_Remind\\obj\\",
+        "outputPath": "C:\\Users\\trungtruc\\Downloads\\Git_POM_Remind\\Auto\\POM_Remind\\POM_Remind\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[3.11.0, )"
             },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
@@ -62,11 +66,23 @@
             },
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
-              "version": "[98.0.4758.10200, )"
+              "version": "[99.0.4844.5100, )"
             },
             "xunit": {
               "target": "Package",
               "version": "[2.4.1, )"
+            },
+            "xunit.runner.console": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
             }
           },
           "imports": [
