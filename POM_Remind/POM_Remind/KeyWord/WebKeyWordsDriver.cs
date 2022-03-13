@@ -83,6 +83,7 @@ namespace POM_Remind.KeyWord
             Actions action = new Actions(driver);
             action.MoveToElement(element).Build().Perform();
             action.Click();
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
         }
 
         /// <summary>

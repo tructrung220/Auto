@@ -31,7 +31,8 @@ namespace POM_Remind.POM
         {
             keyWords.SetText(keyWords.FindElement("xpath", Email), email);
             keyWords.SetText(keyWords.FindElement("xpath", PassWord), passWord);
-            keyWords.Click(keyWords.FindElement("xpath",SubmitBtn));
+            driver.FindElement(By.XPath(SubmitBtn)).Click();
+            //keyWords.Click(keyWords.FindElement("xpath",SubmitBtn));
         }
     }
 }
