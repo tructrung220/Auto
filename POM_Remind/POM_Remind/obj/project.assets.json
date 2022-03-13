@@ -4806,11 +4806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trungtruc\\Downloads\\POM_Remind\\POM_Remind\\POM_Remind.csproj",
+      "projectUniqueName": "C:\\Users\\trungtruc\\Downloads\\Git_POM_Remind\\Auto\\POM_Remind\\POM_Remind\\POM_Remind.csproj",
       "projectName": "POM_Remind",
-      "projectPath": "C:\\Users\\trungtruc\\Downloads\\POM_Remind\\POM_Remind\\POM_Remind.csproj",
+      "projectPath": "C:\\Users\\trungtruc\\Downloads\\Git_POM_Remind\\Auto\\POM_Remind\\POM_Remind\\POM_Remind.csproj",
       "packagesPath": "C:\\Users\\trungtruc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trungtruc\\Downloads\\POM_Remind\\POM_Remind\\obj\\",
+      "outputPath": "C:\\Users\\trungtruc\\Downloads\\Git_POM_Remind\\Auto\\POM_Remind\\POM_Remind\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

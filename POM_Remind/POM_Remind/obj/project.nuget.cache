@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCRSL54tCsONi5/x7k4HbGvOm1txO2vr7L7pKLfbM/8FvVEB3bggWHA9MMr69cZ8OBeuY3o1tk8ov2MArTNxjQ==",
+  "dgSpecHash": "QZD30+esm+RPDYcoMzkzVlGyvYhTgxa98jaUg1cp1IEBcLsGlr4zWdWSbIgdrF9sBTWnl2C6RyzM+98AICWIwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trungtruc\\Downloads\\POM_Remind\\POM_Remind\\POM_Remind.csproj",
+  "projectFilePath": "C:\\Users\\trungtruc\\Downloads\\Git_POM_Remind\\Auto\\POM_Remind\\POM_Remind\\POM_Remind.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trungtruc\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\trungtruc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
